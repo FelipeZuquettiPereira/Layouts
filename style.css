@@ -8,7 +8,7 @@
  .blue{
     background-color: blue;
     padding: 20px;
-    margin: 10px;
+  
  }
 
  .yo{
@@ -38,5 +38,13 @@
  .muitogordo{
    background-color:rgb(0, 0, 0);
     padding: 70px;
+  
+ }
+
+ .blue2{
+    background-color: blue;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
   
  }
